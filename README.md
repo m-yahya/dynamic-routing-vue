@@ -1,4 +1,4 @@
-# Dynamic Routing Vue
+# Vue Dynamic Routing 
 Compiling dynamically inserted elements
 
 ## Project setup
